@@ -11,11 +11,11 @@ This project builds and analyzes a diversified portfolio using real market data.
 - Simulated 5000 portfolios to find optimal allocation
 
 ## Results
-![Optimization](Screenshot 2026-05-01 113521.png)
+![Optimization](efficient_frontier.png)
 
-![Growth](Screenshot 2026-05-01 113503.png)
+![Growth](stock_performance.png)
 
-![Returns](Screenshot 2026-05-01 113441.png)
+![Returns](cumulative_returns.png)
 
 ## Tools Used
 - Python
