@@ -13,7 +13,9 @@ This project builds and analyzes a diversified portfolio using real market data.
 ## Results
 
 ![Optimization](Screenshot 2026-05-01 113521.png)
+
 ![Growth](Screenshot 2026-05-01 113503.png)
+
 ![Returns](Screenshot 2026-05-01 113441.png)
 
 ## Tools Used
